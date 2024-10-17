@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/create-client.toml"
+hash = "e7c195d70700d7a09d93c35769cad3aae4fe28c04be3a9c60cf1cfc50e2e6dc9"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "3bd29e9a592c2bedb3251366a1501adfe6402c2c549321aedfb4eda93b912f57"
+
+[[files]]
 file = "config/fallingleaves.json"
 hash = "89ed1a76bc30544b554a4fb122d8ab0c21d2024af101e17c672956d4f65781ff"
 
@@ -10,7 +18,7 @@ hash = "514e721bab4f5fc24c91ba47af83ac4646077ebe64c2efa3a689ea32ade06f5d"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "b168d24c1f184e2c2089a8a369fa45f0d141d644c4a157cae28941a7b6a6f065"
+hash = "ff48f0ac724236a97d5d0372529e60db7534c86cdbbe5c9d009594e80cc7f8cb"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
@@ -54,6 +62,11 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "7ba294e0897c1dd5017e83a45c9f39e5d01e935b72c647d4f10d489dbb50625e"
+metafile = true
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "44e55412afe359a1a0f7bfd33cbb5eb87bf6283f053bbbd2d1770e02e9b83c86"
 metafile = true
 
 [[files]]
@@ -229,11 +242,6 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
-metafile = true
-
-[[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "4fac0263f4d5e5b8810969b6a04b64ee2396cd42232fd16bcadf7e8e7ae96d90"
 metafile = true
 
 [[files]]
@@ -527,11 +535,6 @@ hash = "8a70f97536490d193879303f378d5fb1d843ba5bf98f59d7369ddfe761642285"
 metafile = true
 
 [[files]]
-file = "mods/immersive-weathering.pw.toml"
-hash = "e75088412c3ee1db182bc0124fae4bbf668653706ff70cee003b570be57b0d6d"
-metafile = true
-
-[[files]]
 file = "mods/immersivethunder.pw.toml"
 hash = "5a5a50d3438315bce21ed2271c9590571c79d38e47788d579307b8518752bd08"
 metafile = true
@@ -762,11 +765,6 @@ hash = "a878f1e84810c2fdfe58945b07ae680e3e483d89f33e378aa5a950d6b99f38a3"
 metafile = true
 
 [[files]]
-file = "mods/puzzle.pw.toml"
-hash = "a6e087aa1beacb72cbfd77e442c78329b8a3c8af71cd3833078ff4cc7186d64f"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "5dbd17b4eb5a496d819cc5d02c683733735bbdc30cd3cc79d3ad1873a9ec67e4"
 metafile = true
@@ -952,14 +950,6 @@ hash = "6e3c46cc7523df95fefba675b177ff0abfda3b72c893add5ce64390ad137ab8f"
 metafile = true
 
 [[files]]
-file = "resourcepacks/FreshAnimations_v1.9.2.zip"
-hash = "7ecee4567bd999ce6d45897b0b196a9342ff325f550031a15fffaaf81342dc1b"
-
-[[files]]
-file = "resourcepacks/GEO_ST_v1.4.0.zip"
-hash = "7a2d7ef1524b5e7a391b0a61cfdee74e28a883b344c5274d875557a5dcfb5589"
-
-[[files]]
 file = "resourcepacks/NoBushyLeaves.zip"
 hash = "cdd1d7879c9e72d4cbc10e3a5daa6d87c5f5e91ccbd4617f30941e35a6d13338"
 
@@ -968,8 +958,14 @@ file = "resourcepacks/Stay_True_1.20.zip"
 hash = "508bc459fe7125378e595681c3f571724648ff9f0be6dd21e31a83f7eeb1f8e0"
 
 [[files]]
-file = "resourcepacks/Vervada-s-enhanced-plants.zip"
-hash = "d8fbba4968caaae434d18976e0ea4a20e9f6d2e8a8d598a3fc68221e4a7d88c8"
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/glowing-emissive-ores-stay-true.pw.toml"
+hash = "28f2f0399ad4a656fbdc003b0096aaf60fc583c694c90c7a2068eeccc59130be"
+metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.3.zip"

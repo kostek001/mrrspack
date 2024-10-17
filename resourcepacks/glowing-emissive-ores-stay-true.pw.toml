@@ -1,0 +1,13 @@
+name = "Glowing Emissive Ores - Stay True"
+filename = "GEO - ST - v1.4.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DElGZnv9/versions/65jLw2dp/GEO%20-%20ST%20-%20v1.4.0.zip"
+hash-format = "sha1"
+hash = "ceb370a9ae662a58bcd3284d20e35b8d7725d337"
+
+[update]
+[update.modrinth]
+mod-id = "DElGZnv9"
+version = "65jLw2dp"

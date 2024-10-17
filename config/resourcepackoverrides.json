@@ -1,8 +1,38 @@
 {
   "schema_version": "2",
   "default_packs": [
-    "GEO_ST_v1.4.0.zip",
+    "black_icons",
+    "file/GEO - ST - v1.4.0.zip",
     "file/Stay_True_1.20.zip",
-    "file/FreshAnimations_v1.9.2.zip"
-  ]
+    "file/FreshAnimations_v1.9.2.zip",
+    "continuity:glass_pane_culling_fix",
+    "continuity:default",
+    "presencefootsteps:default_sound_pack",
+    "minecraft:supporteatinganimation",
+    "seasons:seasonal_lush_caves",
+    "Moonlight Mods Dynamic Assets",
+    "fabric",
+    "vanilla"
+  ],
+  "pack_overrides": {
+    "required": [
+      "file/GEO - ST - v1.4.0.zip",
+      "file/Stay_True_1.20.zip",
+      "file/FreshAnimations_v1.9.2.zip",
+      "continuity:glass_pane_culling_fix",
+      "continuity:default",
+      "presencefootsteps:default_sound_pack",
+      "minecraft:supporteatinganimation",
+      "seasons:seasonal_lush_caves",
+      "Moonlight Mods Dynamic Assets",
+      "fabric",
+      "vanilla"
+    ],
+    "$$required": {
+      "required": true,
+      "force_compatible": true,
+      "fixed_position": true,
+      "default_position": "BOTTOM"
+    }
+  }
 }
