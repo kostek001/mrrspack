@@ -906,3 +906,27 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "6e3c46cc7523df95fefba675b177ff0abfda3b72c893add5ce64390ad137ab8f"
 metafile = true
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.9.2.zip"
+hash = "7ecee4567bd999ce6d45897b0b196a9342ff325f550031a15fffaaf81342dc1b"
+
+[[files]]
+file = "resourcepacks/GEO - ST - v1.4.0.zip"
+hash = "7a2d7ef1524b5e7a391b0a61cfdee74e28a883b344c5274d875557a5dcfb5589"
+
+[[files]]
+file = "resourcepacks/NoBushyLeaves.zip"
+hash = "cdd1d7879c9e72d4cbc10e3a5daa6d87c5f5e91ccbd4617f30941e35a6d13338"
+
+[[files]]
+file = "resourcepacks/Stay_True_1.20.zip"
+hash = "508bc459fe7125378e595681c3f571724648ff9f0be6dd21e31a83f7eeb1f8e0"
+
+[[files]]
+file = "resourcepacks/Vervada-s-enhanced-plants.zip"
+hash = "d8fbba4968caaae434d18976e0ea4a20e9f6d2e8a8d598a3fc68221e4a7d88c8"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.3.zip"
+hash = "6e8234a2213c5a35238582d15dcc286584a029fbf42a993c1220188054799224"
