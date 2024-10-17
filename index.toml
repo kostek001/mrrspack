@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fallingleaves.json"
+hash = "89ed1a76bc30544b554a4fb122d8ab0c21d2024af101e17c672956d4f65781ff"
+
+[[files]]
+file = "config/particular.json5"
+hash = "514e721bab4f5fc24c91ba47af83ac4646077ebe64c2efa3a689ea32ade06f5d"
+
+[[files]]
+file = "config/wakes.json"
+hash = "7e709257da5966a4c1fa6923daf15f53c631e20013856f190a87d5f8491571fe"
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "75df667bf44ea3d1272430e259339d69f55db196d0d42d2baf60ada15ef18f3b"
 metafile = true
@@ -516,6 +528,11 @@ hash = "863c7625ed377ba905368ec8cb50a29d2ad23c833b50d7808f933aecbe1bcad4"
 metafile = true
 
 [[files]]
+file = "mods/ledger.pw.toml"
+hash = "84defc8f8116d5c0e4210934ed1f555641a1db71b767fa4beddee21c47118868"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "4635fd04883c36cc8e0fdbd7ccca40c9613daeb777c3fc9164c3e15c39dfb690"
 metafile = true
@@ -621,11 +638,6 @@ hash = "e481f2f204be89303cd343f83476f3a30c2b2c3635501b24a5eafa49b1a428fe"
 metafile = true
 
 [[files]]
-file = "mods/more-mob-variants.pw.toml"
-hash = "222ec4a75e6f0aad1680edc993b2b473d4289d3813f3263730f47f88dd14d615"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
 metafile = true
@@ -633,11 +645,6 @@ metafile = true
 [[files]]
 file = "mods/music-sync.pw.toml"
 hash = "f562fc7d065d9c764e4cdb5df28be46b8b7fc70eb2aa7aedd405da536cf2370d"
-metafile = true
-
-[[files]]
-file = "mods/naturalist.pw.toml"
-hash = "6cef110f567b6957a35aa4224c70e7e4ad22dd25f852b2a39d2457fdb804edff"
 metafile = true
 
 [[files]]
@@ -873,11 +880,6 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "3d906397ad21b3980280145572398d8ac0a29cd13cec31d53aefe37ac66e0ab0"
-metafile = true
-
-[[files]]
-file = "mods/wabi-sabi-structures.pw.toml"
-hash = "b8d55405c8f56f78c9e25896773d32807a03f55e1fca73a68ed83436ce09296c"
 metafile = true
 
 [[files]]
