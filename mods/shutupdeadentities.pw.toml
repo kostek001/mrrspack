@@ -1,0 +1,13 @@
+name = "ShutUpDeadEntities"
+filename = "shutupdeadentities-mc1.19+1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9FJiZMp8/versions/Gs67rsVe/shutupdeadentities-mc1.19%2B1.1.jar"
+hash-format = "sha1"
+hash = "a11cdab51bebcefeccd9dab89d4aa7bed9fbec6b"
+
+[update]
+[update.modrinth]
+mod-id = "9FJiZMp8"
+version = "Gs67rsVe"

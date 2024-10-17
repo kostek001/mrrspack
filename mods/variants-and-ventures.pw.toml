@@ -1,0 +1,13 @@
+name = "Variants & Ventures"
+filename = "variantsandventures-fabric-mc1.20.1-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lNDRiXkY/versions/QhCSJtm3/variantsandventures-fabric-mc1.20.1-1.0.6.jar"
+hash-format = "sha1"
+hash = "b9adaddb5af1f4978ff599c0bde13a3f4b747a30"
+
+[update]
+[update.modrinth]
+mod-id = "lNDRiXkY"
+version = "QhCSJtm3"

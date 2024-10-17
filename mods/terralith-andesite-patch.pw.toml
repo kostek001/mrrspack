@@ -1,0 +1,13 @@
+name = "Terralith andesite patch"
+filename = "Terralith_andesite_patch.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P4PAsklC/versions/n22gCKB8/Terralith_andesite_patch.jar"
+hash-format = "sha1"
+hash = "8846e06ffcaa2dc8026509854fd2604ff90d71dd"
+
+[update]
+[update.modrinth]
+mod-id = "P4PAsklC"
+version = "n22gCKB8"

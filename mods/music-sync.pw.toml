@@ -1,0 +1,13 @@
+name = "Music Sync"
+filename = "musicsync-1.3+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oa0DLzIW/versions/MaoYFAK6/musicsync-1.3%2B1.20.jar"
+hash-format = "sha1"
+hash = "ea87df79760546b4723342a7fd21936941520937"
+
+[update]
+[update.modrinth]
+mod-id = "oa0DLzIW"
+version = "MaoYFAK6"

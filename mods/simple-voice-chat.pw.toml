@@ -1,0 +1,13 @@
+name = "Simple Voice Chat"
+filename = "voicechat-fabric-1.20.1-2.5.24.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/frmZMucM/voicechat-fabric-1.20.1-2.5.24.jar"
+hash-format = "sha1"
+hash = "dcc764ccbcca512e772c521eef3c09e9afac45b0"
+
+[update]
+[update.modrinth]
+mod-id = "9eGKb6K1"
+version = "frmZMucM"
