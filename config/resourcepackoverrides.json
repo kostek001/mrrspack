@@ -1,0 +1,8 @@
+{
+  "schema_version": "2",
+  "default_packs": [
+    "GEO_ST_v1.4.0.zip",
+    "file/Stay_True_1.20.zip",
+    "file/FreshAnimations_v1.9.2.zip"
+  ]
+}
