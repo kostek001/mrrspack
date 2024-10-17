@@ -9,6 +9,30 @@ file = "config/particular.json5"
 hash = "514e721bab4f5fc24c91ba47af83ac4646077ebe64c2efa3a689ea32ade06f5d"
 
 [[files]]
+file = "config/resourcepackoverrides.json"
+hash = "b168d24c1f184e2c2089a8a369fa45f0d141d644c4a157cae28941a7b6a6f065"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "38ab6218681a785263aa7c583b4583704625937b7d53888033a9fda2b6ff1b0e"
+
+[[files]]
+file = "config/smoothswapping.json"
+hash = "3892c899eb7cb6a47e0b0a855fd2e27e2031b6a05f9cbb7135626d4b07d63a65"
+
+[[files]]
+file = "config/surveyor.toml"
+hash = "6ca31ffc81b6ad3d190989f409164cb985e89d8a720de8920c58993bf2f752b2"
+
+[[files]]
+file = "config/treechop-client.toml"
+hash = "b03b349044903a4e07956a31142161b8f6eb2c6ea161f3a4ebfaf90f7644c4f2"
+
+[[files]]
+file = "config/treechop-common.toml"
+hash = "f3f819b8d5a1758ff3024b7ca0c3de7698cdfac76ef0e77b17838e338c9b1f5b"
+
+[[files]]
 file = "config/wakes.json"
 hash = "7e709257da5966a4c1fa6923daf15f53c631e20013856f190a87d5f8491571fe"
 
@@ -932,7 +956,7 @@ file = "resourcepacks/FreshAnimations_v1.9.2.zip"
 hash = "7ecee4567bd999ce6d45897b0b196a9342ff325f550031a15fffaaf81342dc1b"
 
 [[files]]
-file = "resourcepacks/GEO - ST - v1.4.0.zip"
+file = "resourcepacks/GEO_ST_v1.4.0.zip"
 hash = "7a2d7ef1524b5e7a391b0a61cfdee74e28a883b344c5274d875557a5dcfb5589"
 
 [[files]]
