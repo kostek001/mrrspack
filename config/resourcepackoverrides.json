@@ -3,7 +3,7 @@
   "default_packs": [
     "black_icons",
     "file/GEO - ST - v1.4.0.zip",
-    "file/Stay_True_1.20.zip",
+    "file/StayTrue_1.20.zip",
     "file/FreshAnimations_v1.9.2.zip",
     "continuity:glass_pane_culling_fix",
     "continuity:default",
@@ -17,7 +17,7 @@
   "pack_overrides": {
     "required": [
       "file/GEO - ST - v1.4.0.zip",
-      "file/Stay_True_1.20.zip",
+      "file/StayTrue_1.20.zip",
       "file/FreshAnimations_v1.9.2.zip",
       "continuity:glass_pane_culling_fix",
       "continuity:default",

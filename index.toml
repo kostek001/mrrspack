@@ -9,6 +9,10 @@ file = "config/entity_texture_features.json"
 hash = "3bd29e9a592c2bedb3251366a1501adfe6402c2c549321aedfb4eda93b912f57"
 
 [[files]]
+file = "config/euphoria_patcher.properties"
+hash = "7efe2d47b4e3f7202d0f0ee4fc28095b8620d2768c1b48d7ce2f945b699d4875"
+
+[[files]]
 file = "config/fallingleaves.json"
 hash = "89ed1a76bc30544b554a4fb122d8ab0c21d2024af101e17c672956d4f65781ff"
 
@@ -18,11 +22,7 @@ hash = "514e721bab4f5fc24c91ba47af83ac4646077ebe64c2efa3a689ea32ade06f5d"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "ff48f0ac724236a97d5d0372529e60db7534c86cdbbe5c9d009594e80cc7f8cb"
-
-[[files]]
-file = "config/roughlyenoughitems/config.json5"
-hash = "38ab6218681a785263aa7c583b4583704625937b7d53888033a9fda2b6ff1b0e"
+hash = "535db65c929e1b2e5473649ab0653d0825b043d968b85175b2f4eba6d96bf10a"
 
 [[files]]
 file = "config/smoothswapping.json"
@@ -575,6 +575,11 @@ hash = "6bc9e4983c242007a28686823a34a4d34e9ae3953645d415016b07735402ae3d"
 metafile = true
 
 [[files]]
+file = "mods/leaves-us-in-peace.pw.toml"
+hash = "831512d32dca29c875882bf6d612054c171f6ad2b5e87eb0e69a227b26209448"
+metafile = true
+
+[[files]]
 file = "mods/ledger.pw.toml"
 hash = "84defc8f8116d5c0e4210934ed1f555641a1db71b767fa4beddee21c47118868"
 metafile = true
@@ -950,12 +955,12 @@ hash = "6e3c46cc7523df95fefba675b177ff0abfda3b72c893add5ce64390ad137ab8f"
 metafile = true
 
 [[files]]
-file = "resourcepacks/NoBushyLeaves.zip"
-hash = "cdd1d7879c9e72d4cbc10e3a5daa6d87c5f5e91ccbd4617f30941e35a6d13338"
+file = "resourcepacks/StayTrue_1.20.zip"
+hash = "508bc459fe7125378e595681c3f571724648ff9f0be6dd21e31a83f7eeb1f8e0"
 
 [[files]]
-file = "resourcepacks/Stay_True_1.20.zip"
-hash = "508bc459fe7125378e595681c3f571724648ff9f0be6dd21e31a83f7eeb1f8e0"
+file = "resourcepacks/StayTrue_NoBushyLeaves.zip"
+hash = "cdd1d7879c9e72d4cbc10e3a5daa6d87c5f5e91ccbd4617f30941e35a6d13338"
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
@@ -968,5 +973,6 @@ hash = "28f2f0399ad4a656fbdc003b0096aaf60fc583c694c90c7a2068eeccc59130be"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.3.zip"
-hash = "6e8234a2213c5a35238582d15dcc286584a029fbf42a993c1220188054799224"
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "f18e6196d79be05795c41658af6ea9ad77457bb65058bdd65a0ef5d3c6f30ca0"
+metafile = true
