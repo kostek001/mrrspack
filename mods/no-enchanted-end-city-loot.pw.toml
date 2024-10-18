@@ -1,0 +1,13 @@
+name = "No Enchanted End City Loot"
+filename = "no-enchanted-end-city-loot-V1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lDD9x1Wq/versions/uRsy4W8T/no-enchanted-end-city-loot-V1.jar"
+hash-format = "sha1"
+hash = "54aea95a966d7f5ebcf6ebcf36ccad56880362c1"
+
+[update]
+[update.modrinth]
+mod-id = "lDD9x1Wq"
+version = "uRsy4W8T"

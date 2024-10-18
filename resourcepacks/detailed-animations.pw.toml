@@ -1,0 +1,13 @@
+name = "Detailed Animations"
+filename = "DetailedAnimationsReworked - 1.14 R.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9pR04wDX/versions/5bFRwjrc/DetailedAnimationsReworked%20-%201.14%20R.zip"
+hash-format = "sha1"
+hash = "84c56ab17be1815dfeb24675f6be5bd9c8d8fffe"
+
+[update]
+[update.modrinth]
+mod-id = "9pR04wDX"
+version = "5bFRwjrc"
