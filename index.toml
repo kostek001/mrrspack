@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "TODO.md"
-hash = "742778d30349eb0e5457fc909175df85e0052758a06d5df813bc05163f5d5a3e"
-
-[[files]]
 file = "config/create-client.toml"
 hash = "e7c195d70700d7a09d93c35769cad3aae4fe28c04be3a9c60cf1cfc50e2e6dc9"
 
@@ -475,6 +471,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
+file = "mods/fishing-real.pw.toml"
+hash = "a68cac271d61863d8cc9c2e21dc25d22344d60f6ae07fc964590ec4445ea4334"
 metafile = true
 
 [[files]]
