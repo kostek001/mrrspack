@@ -1,12 +1,12 @@
 name = "MRRSPack"
 author = "Kostek001"
-version = "1.0.8"
+version = "1.0.9"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3128840aa3de902ef5bf9ea034335cda33f9608fef1159954e58331b48238cf2"
+hash = "3e2141c6ec4f0fdb9873c50914b35d67341eb4d48a6dfb34937bb1e023359779"
 
 [versions]
 fabric = "0.16.7"

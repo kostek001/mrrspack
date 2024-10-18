@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "TODO.md"
+hash = "742778d30349eb0e5457fc909175df85e0052758a06d5df813bc05163f5d5a3e"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "e7c195d70700d7a09d93c35769cad3aae4fe28c04be3a9c60cf1cfc50e2e6dc9"
 
@@ -34,7 +38,7 @@ hash = "3892c899eb7cb6a47e0b0a855fd2e27e2031b6a05f9cbb7135626d4b07d63a65"
 
 [[files]]
 file = "config/surveyor.toml"
-hash = "6ca31ffc81b6ad3d190989f409164cb985e89d8a720de8920c58993bf2f752b2"
+hash = "0112a38b153d64324793ad07532a112d5207e62255e22c1db175d5786b569b00"
 
 [[files]]
 file = "config/treechop-client.toml"
@@ -54,7 +58,19 @@ hash = "7e709257da5966a4c1fa6923daf15f53c631e20013856f190a87d5f8491571fe"
 
 [[files]]
 file = "config/yigd.json"
-hash = "cdf16cbbc6e4e8ad5b4706c7ca5455f29e6161b77ffd5cb980d60dad07a1048b"
+hash = "6a0936853dc4826bd8648e6cda12f9108bc8f0400dbea3b135164dd4f3eb80e2"
+
+[[files]]
+file = "config/yosbr/DistantHorizons.toml"
+hash = "1ed606924cca6075596fb82662a02802abb34bc4c2673194413364ab62e7319d"
+
+[[files]]
+file = "config/yosbr/iris.properties"
+hash = "9a82588345909c0f0e679679911a431380d8566cda281ee1fbd4415758596b5c"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "c370a19f223d18bce054148cc1f2dc08049c9ba7eeb212afd5f645ff93ca8ab2"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"

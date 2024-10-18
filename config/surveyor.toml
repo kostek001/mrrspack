@@ -28,7 +28,7 @@ debugMode = false
 	# [Server] Whether to place every player in a single share group
 	# Disables /surveyor share and /surveyor unshare
 	# default: false
-	globalSharing = true
+	globalSharing = false
 	# How much terrain data to send to clients
 	# SERVER sends server-known data, GROUP sends group-known data, SOLO sends player-known data, NONE sends no data
 	# options: NONE, SOLO, GROUP, SERVER

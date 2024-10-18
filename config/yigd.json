@@ -1,6 +1,6 @@
 {
   "inventoryConfig": {
-    "dropPlayerHead": true,
+    "dropPlayerHead": false,
     "itemLoss": {
       "enabled": false,
       "affectStacks": false,
