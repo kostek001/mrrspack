@@ -57,11 +57,11 @@ file = "config/yigd.json"
 hash = "6a0936853dc4826bd8648e6cda12f9108bc8f0400dbea3b135164dd4f3eb80e2"
 
 [[files]]
-file = "config/yosbr/DistantHorizons.toml"
+file = "config/yosbr/config/DistantHorizons.toml"
 hash = "1ed606924cca6075596fb82662a02802abb34bc4c2673194413364ab62e7319d"
 
 [[files]]
-file = "config/yosbr/iris.properties"
+file = "config/yosbr/config/iris.properties"
 hash = "9a82588345909c0f0e679679911a431380d8566cda281ee1fbd4415758596b5c"
 
 [[files]]
