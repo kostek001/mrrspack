@@ -26,7 +26,7 @@ hash = "514e721bab4f5fc24c91ba47af83ac4646077ebe64c2efa3a689ea32ade06f5d"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "34643c1165f4b70ffac06f32d2676f2f49ad54c7beeecb241ceb5e99e6856e07"
+hash = "7a7abeaf00bf02702998648ae8caf550762ee9d81657544932393477f290cc72"
 
 [[files]]
 file = "config/smoothswapping.json"
@@ -58,7 +58,7 @@ hash = "6a0936853dc4826bd8648e6cda12f9108bc8f0400dbea3b135164dd4f3eb80e2"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
-hash = "1ed606924cca6075596fb82662a02802abb34bc4c2673194413364ab62e7319d"
+hash = "0cd54ba63da78029b23fabbed15d6e9db96e7f28324bf21bf364fd2366bc8fbe"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -151,11 +151,6 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "16ecba67eb9be7b90c959b7c2fb51bc02aebabec02e22ac7afb1149559a9496b"
-metafile = true
-
-[[files]]
-file = "mods/better-combat.pw.toml"
-hash = "0998161f34280a8e4c4d7858bfc5879c111794003ed4c29e5a90eb19e08a579a"
 metafile = true
 
 [[files]]
@@ -334,6 +329,11 @@ hash = "6992619452254eac894dbaaaff722c4dfa3d3576405f1b3c4d9782fe98aaf7e1"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns-stronghold-overhaul.pw.toml"
+hash = "fa497fa0f3aebdb030ba24f6c196257388ecadf7268a072391a2260f97006524"
+metafile = true
+
+[[files]]
 file = "mods/dwdsb.pw.toml"
 hash = "f291f712b025ed567ccd2bf78bc5447416312f503483527c3cfa37861045ae52"
 metafile = true
@@ -361,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/easy-shulker-boxes.pw.toml"
 hash = "c6f6a8198f1e6483dcfb2c7aa4714969c26a018f6c7b2251b7647eef73e969de"
+metafile = true
+
+[[files]]
+file = "mods/easyauth.pw.toml"
+hash = "a4a87e7580a1651f429af181e1be40a5b3c4b1969f80288c5199dcde91592ee7"
 metafile = true
 
 [[files]]
@@ -590,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/ledger.pw.toml"
-hash = "1a257e859329e2d0d66b48a8d3886c8517317d9c2511c45e3fc22b28062993d1"
+hash = "84defc8f8116d5c0e4210934ed1f555641a1db71b767fa4beddee21c47118868"
 metafile = true
 
 [[files]]
@@ -756,11 +761,6 @@ metafile = true
 [[files]]
 file = "mods/particular.pw.toml"
 hash = "e868456c1197e71712b605a6a9920f422005d8ddf6c6e4ad0d88f6524f82c748"
-metafile = true
-
-[[files]]
-file = "mods/playeranimator.pw.toml"
-hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
 
 [[files]]
@@ -994,6 +994,46 @@ hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "034caf58b16e185d8b240dccf5f8e015e47ac3bc35ecace36622e69b6d04e5c1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "5ba962b883a36141ce3e505486d07fd30e49412fbcf8b523a81e3bb1b59bb5ba"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "470d51d25045b6050ab52cc0ea37f1e9b23c82c3401dc8d10e832cb11c7cd3dd"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "2d4b093e3023eb9e411ea9c2a7998bc895e284ece476ee4213256a0ae6eb8aa7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "2bb58b3921466f6f40b48830415c2e8b6bdacd3b126706ff141014004dad815f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "13daa687a4ba568dc869e6275969995380016fb08a968673e2a94b33383fa5a7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "541635aaa48a5bfd27ab14ee5f760d35550a7d7f3083316feabeafc44c42b0bd"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "f683e330873db2c19856790cf2b4b226eecbb44d42c4700b32caab671b2c21f4"
+metafile = true
+
+[[files]]
 file = "mods/zoomify.pw.toml"
 hash = "6e3c46cc7523df95fefba675b177ff0abfda3b72c893add5ce64390ad137ab8f"
 metafile = true
@@ -1005,6 +1045,11 @@ hash = "508bc459fe7125378e595681c3f571724648ff9f0be6dd21e31a83f7eeb1f8e0"
 [[files]]
 file = "resourcepacks/StayTrue_NoBushyLeaves.zip"
 hash = "cdd1d7879c9e72d4cbc10e3a5daa6d87c5f5e91ccbd4617f30941e35a6d13338"
+
+[[files]]
+file = "resourcepacks/dark-everywhere.pw.toml"
+hash = "7fe3cecbaf0635cb13c9a31afbdacfeae7ca12c0727b7f4c7a84664067f4ac82"
+metafile = true
 
 [[files]]
 file = "resourcepacks/detailed-animations.pw.toml"

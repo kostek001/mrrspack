@@ -345,7 +345,7 @@ _version = 2
 			# 
 			#  Note: when on a server, distant generation isn't supported 
 			#  and will always be disabled.
-			enableDistantGeneration = true
+			enableDistantGeneration = false
 			#
 			# How detailed should LODs be generated outside the vanilla render distance? 
 			# 
@@ -573,7 +573,7 @@ _version = 2
 		[client.advanced.autoUpdater]
 			#
 			# Automatically check for updates on game launch?
-			enableAutoUpdater = true
+			enableAutoUpdater = false
 			#
 			# Should Distant Horizons silently, automatically download and install new versions?
 			enableSilentUpdates = false
@@ -640,7 +640,7 @@ _version = 2
 			# DEFAULT: Default lod renderer 
 			# DEBUG: Debug testing renderer 
 			# DISABLED: Disable rendering
-			rendererMode = "DEFAULT"
+			rendererMode = "DISABLED"
 			#
 			# Should specialized colors/rendering modes be used? 
 			# 
