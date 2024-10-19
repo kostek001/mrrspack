@@ -1,0 +1,13 @@
+name = "Vanilla Bushy Leaves"
+filename = "Vanilla Bushy Leaves v2.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JKvJahJC/versions/EcRpOMmN/Vanilla%20Bushy%20Leaves%20v2.1.zip"
+hash-format = "sha1"
+hash = "e8fe37befbaea082f0fb386d811d9a963ff890c2"
+
+[update]
+[update.modrinth]
+mod-id = "JKvJahJC"
+version = "EcRpOMmN"

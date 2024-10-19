@@ -11,12 +11,23 @@
     "continuity:glass_pane_culling_fix",
     "file/FreshAnimations_v1.9.2.zip",
     "file/DetailedAnimationsReworked - 1.14 R.zip",
-    "file/Dark Everywhere.zip",
+
+    "file/Default-Dark-Mode-1.20-2023.7.0.zip",
+    "file/Default-Dark-Mode-Expansion-1.19.0+-2024.9.22.zip",
     "file/StayTrue_1.20.zip",
     "file/GEO - ST - v1.4.0.zip",
+    "file/Vanilla Bushy Leaves v2.1.zip",
     "black_icons"
   ],
   "pack_overrides": {
+    "force": [
+      "file/Default-Dark-Mode-1.20-2023.7.0.zip",
+      "Default-Dark-Mode-Expansion-1.19.0+-2024.9.22.zip",
+      "file/GEO - ST - v1.4.0.zip"
+    ],
+    "$$force": {
+      "force_compatible": true
+    },
     "required": [
       "vanilla",
       "fabric",
@@ -27,16 +38,11 @@
       "continuity:default",
       "continuity:glass_pane_culling_fix",
       "file/FreshAnimations_v1.9.2.zip",
-      "file/DetailedAnimationsReworked - 1.14 R.zip",
-      "file/Dark Everywhere.zip",
-      "file/StayTrue_1.20.zip",
-      "file/GEO - ST - v1.4.0.zip"
+      "file/DetailedAnimationsReworked - 1.14 R.zip"
     ],
     "$$required": {
       "required": true,
-      "force_compatible": true,
-      "fixed_position": true,
-      "default_position": "BOTTOM"
+      "force_compatible": true
     }
   }
 }

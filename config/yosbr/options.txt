@@ -45,8 +45,6 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","seasons:seasonal_lush_caves","minecraft:supporteatinganimation","presencefootsteps:default_sound_pack","continuity:default","continuity:glass_pane_culling_fix","file/FreshAnimations_v1.9.2.zip","file/DetailedAnimationsReworked - 1.14 R.zip","file/StayTrue_1.20.zip","file/GEO - ST - v1.4.0.zip","black_icons"]
-incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
 soundDevice:""

@@ -26,7 +26,7 @@ hash = "514e721bab4f5fc24c91ba47af83ac4646077ebe64c2efa3a689ea32ade06f5d"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "7a7abeaf00bf02702998648ae8caf550762ee9d81657544932393477f290cc72"
+hash = "f3ec560558a508fdea49ba32d3b23932c3bf0464c4228c721d826ce63c36f647"
 
 [[files]]
 file = "config/smoothswapping.json"
@@ -66,7 +66,7 @@ hash = "9a82588345909c0f0e679679911a431380d8566cda281ee1fbd4415758596b5c"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "c370a19f223d18bce054148cc1f2dc08049c9ba7eeb212afd5f645ff93ca8ab2"
+hash = "4cec85184f5c7cefeef4cdfa7ee440bda6046f83d5e5537d02df11bd9e6389ce"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.3 + EuphoriaPatches_1.4.1.txt"
@@ -1028,16 +1028,17 @@ hash = "6e3c46cc7523df95fefba675b177ff0abfda3b72c893add5ce64390ad137ab8f"
 metafile = true
 
 [[files]]
-file = "resourcepacks/StayTrue_1.20.zip"
-hash = "508bc459fe7125378e595681c3f571724648ff9f0be6dd21e31a83f7eeb1f8e0"
+file = "resourcepacks/StayTrue_1.20_NoLeaves.zip"
+hash = "0f3b6dad5790471f2dc97b109a8f998899e06f6b26016082987982fee3705a4b"
 
 [[files]]
-file = "resourcepacks/StayTrue_NoBushyLeaves.zip"
-hash = "cdd1d7879c9e72d4cbc10e3a5daa6d87c5f5e91ccbd4617f30941e35a6d13338"
+file = "resourcepacks/default-dark-mode-expansion.pw.toml"
+hash = "4f54fda117e01c4f4e1f01cbd4eba4ff58ec605f8aebf839c1b83dd9607505cf"
+metafile = true
 
 [[files]]
-file = "resourcepacks/dark-everywhere.pw.toml"
-hash = "7fe3cecbaf0635cb13c9a31afbdacfeae7ca12c0727b7f4c7a84664067f4ac82"
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "dfa12dd42116d5fd064ae312d68e2671ec5661d2a27dc8b4f28f257bfc1ae0d2"
 metafile = true
 
 [[files]]
@@ -1053,6 +1054,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/glowing-emissive-ores-stay-true.pw.toml"
 hash = "28f2f0399ad4a656fbdc003b0096aaf60fc583c694c90c7a2068eeccc59130be"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vanilla-bushy-leaves.pw.toml"
+hash = "02be6265ede5af80bb418e55e3e1833008cb7fe2d323db3c932a8ea829d599eb"
 metafile = true
 
 [[files]]
