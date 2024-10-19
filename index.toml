@@ -26,7 +26,7 @@ hash = "514e721bab4f5fc24c91ba47af83ac4646077ebe64c2efa3a689ea32ade06f5d"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "f3ec560558a508fdea49ba32d3b23932c3bf0464c4228c721d826ce63c36f647"
+hash = "a415e71914a8855c666281c59856811fad9f7b8a7e7edcdfba94f77e5899b5a4"
 
 [[files]]
 file = "config/smoothswapping.json"
