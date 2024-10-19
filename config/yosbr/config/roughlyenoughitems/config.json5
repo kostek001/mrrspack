@@ -1,0 +1,10 @@
+{
+  advanced: {
+    miscellaneous: {
+      registerRecipesInAnotherThread: true,
+      newFastEntryRendering: true,
+      cachingFastEntryRendering: true,
+      cachingDisplayLookup: true,
+    },
+  },
+}

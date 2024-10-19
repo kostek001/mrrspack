@@ -22,7 +22,7 @@
   "pack_overrides": {
     "force": [
       "file/Default-Dark-Mode-1.20-2023.7.0.zip",
-      "Default-Dark-Mode-Expansion-1.19.0+-2024.9.22.zip",
+      "file/Default-Dark-Mode-Expansion-1.19.0+-2024.9.22.zip",
       "file/GEO - ST - v1.4.0.zip"
     ],
     "$$force": {

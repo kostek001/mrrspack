@@ -26,7 +26,7 @@ hash = "514e721bab4f5fc24c91ba47af83ac4646077ebe64c2efa3a689ea32ade06f5d"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "a415e71914a8855c666281c59856811fad9f7b8a7e7edcdfba94f77e5899b5a4"
+hash = "c7d61ae399b586d0b6153115d954bb7089f865e97e960f8c1b7e5c2b66b6a42e"
 
 [[files]]
 file = "config/smoothswapping.json"
@@ -63,6 +63,10 @@ hash = "0cd54ba63da78029b23fabbed15d6e9db96e7f28324bf21bf364fd2366bc8fbe"
 [[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "9a82588345909c0f0e679679911a431380d8566cda281ee1fbd4415758596b5c"
+
+[[files]]
+file = "config/yosbr/config/roughlyenoughitems/config.json5"
+hash = "abaab7dc0097ac8a93b58b03f70de47eb0895909e5def13cf0ec7f2408487634"
 
 [[files]]
 file = "config/yosbr/options.txt"
