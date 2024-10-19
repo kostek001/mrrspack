@@ -372,11 +372,6 @@ hash = "a5fcb0469aa954bf71ec42c04c364fd28de48359206a899b48e48123bfa21e70"
 metafile = true
 
 [[files]]
-file = "mods/ellediscs.pw.toml"
-hash = "99f6d23cc6c84b774d70e5f20605555b31addef35332f2bf9f9900bb1f9ce169"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "2beb95d8ff5770b423a562d408305b92c20b873a1d3b56f059d2837ea61fbbe4"
 metafile = true
