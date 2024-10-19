@@ -69,6 +69,10 @@ file = "config/yosbr/options.txt"
 hash = "c370a19f223d18bce054148cc1f2dc08049c9ba7eeb212afd5f645ff93ca8ab2"
 
 [[files]]
+file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.3 + EuphoriaPatches_1.4.1.txt"
+hash = "c7acbd413c7ff2069cb085f3a5fd45df75fb47dc5b8c73b8a2e22b7259cf4f4b"
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "75df667bf44ea3d1272430e259339d69f55db196d0d42d2baf60ada15ef18f3b"
 metafile = true
@@ -309,21 +313,6 @@ hash = "31a57e97467b2b34997b9594c692c73a414f9587801f3b92b6bef996377bf844"
 metafile = true
 
 [[files]]
-file = "mods/diagonal-walls.pw.toml"
-hash = "2d3c3ecce2c0cd41d1ba7370b91ce7eeb69db95b2ff9fd0b6d81996e00d07765"
-metafile = true
-
-[[files]]
-file = "mods/diagonal-windows.pw.toml"
-hash = "9fc01e3d81eb0855ac7c5df62355458b4420b6c8161172d702f26489ba8b3ed6"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "5955ac62823eacbf9a6d227e3813451b6a14388aa29e9326fdd62e569d159fab"
-metafile = true
-
-[[files]]
 file = "mods/dripsounds-fabric.pw.toml"
 hash = "6992619452254eac894dbaaaff722c4dfa3d3576405f1b3c4d9782fe98aaf7e1"
 metafile = true
@@ -405,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "de8a91a552b5549da4e1ea5d3f978b98a0987960347ce2c2c0ccc1067d3ed3a0"
+hash = "bc66c5cd94cc80a9a914383d6c47efb946159e9350cc7431119f11e5c9a92460"
 metafile = true
 
 [[files]]
@@ -1068,5 +1057,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "f18e6196d79be05795c41658af6ea9ad77457bb65058bdd65a0ef5d3c6f30ca0"
+hash = "b823610579675c8a712064807e4104cd1ad34edb6187eda312fc928787523505"
 metafile = true
