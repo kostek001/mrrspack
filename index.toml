@@ -257,6 +257,11 @@ hash = "809ab9c953bf5ca4647570fafbc76bc7f29ada644f9556831c196e26b1822ca3"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "7d8fe92da9ff5b1a8d370c5e68c2e29ba68b400660266347106d7d9ec6f71182"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
 metafile = true
@@ -397,6 +402,11 @@ hash = "bc66c5cd94cc80a9a914383d6c47efb946159e9350cc7431119f11e5c9a92460"
 metafile = true
 
 [[files]]
+file = "mods/eureka.pw.toml"
+hash = "b9776960dcc40b4688a1ef1129932694cc8a5b7248c057284022446ac19101cf"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "7a5f1495ec88e6ea7d953e2c7d35442417665d6cc08876aed081cdd46ae75273"
 metafile = true
@@ -428,7 +438,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-seasons-terralith-compat.pw.toml"
-hash = "7c8572547d6e71b653018c3350daec54010442cba9f9517a4252bf3b8d3ecd3d"
+hash = "23760ab687a7cab767fb1057ab36d4f557ae6ed9a5f480abf0b047106830a492"
 metafile = true
 
 [[files]]
@@ -538,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersivethunder.pw.toml"
-hash = "5a5a50d3438315bce21ed2271c9590571c79d38e47788d579307b8518752bd08"
+hash = "fb5e29a2bb242f898a37afe250b3401d48149a58be9ec85b92045cf265e75f54"
 metafile = true
 
 [[files]]
@@ -793,7 +803,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "576f5eaf8a65a1d362820d03ba0b27cec3a5f2e3ba937a5587fdc7297dc92c3e"
+hash = "30896bed9dc565b9853be08543b1651bc535b5f44998676111cd12f34c78aa24"
 metafile = true
 
 [[files]]
@@ -829,6 +839,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "9826271c67de05228a9550a7639dfe970dec0252604e906c9c71f339ba0d275b"
+metafile = true
+
+[[files]]
+file = "mods/sit!.pw.toml"
+hash = "cb9c46f4645513b85e6cc61c2f1cf51e59eec1d32ef832755b00f557fd4bdb75"
 metafile = true
 
 [[files]]
@@ -929,6 +944,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "acc29f4d30641c8138744b8c15cad479e17c601567de64b19ddb82aff37b3ad1"
 metafile = true
 
 [[files]]
@@ -1064,3 +1084,7 @@ metafile = true
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "b823610579675c8a712064807e4104cd1ad34edb6187eda312fc928787523505"
 metafile = true
+
+[[files]]
+file = "shell.nix"
+hash = "5485d7620218ef90b48c1649eebfaf8938813df03ccb894c896f6bf357735b06"

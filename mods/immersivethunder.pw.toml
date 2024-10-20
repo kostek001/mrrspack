@@ -1,6 +1,6 @@
 name = "ImmersiveThunder"
 filename = "ImmersiveThunder-1.20.1+1.2.2.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/uKjKoMsj/versions/o64NJE0v/ImmersiveThunder-1.20.1%2B1.2.2.jar"

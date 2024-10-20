@@ -1,6 +1,6 @@
 name = "Fabric Seasons: Terralith Compat"
 filename = "fabric-seasons-terralith-2.3.7-compat-1.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/D53qveoj/versions/MJ2OF7eg/fabric-seasons-terralith-2.3.7-compat-1.0.jar"
