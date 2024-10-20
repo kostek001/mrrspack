@@ -372,11 +372,6 @@ hash = "d6f3249ad3a27395ebeaa97bd4601587169f0ffa50ddefabc0538358eee8b555"
 metafile = true
 
 [[files]]
-file = "mods/effortless.pw.toml"
-hash = "a5fcb0469aa954bf71ec42c04c364fd28de48359206a899b48e48123bfa21e70"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "2beb95d8ff5770b423a562d408305b92c20b873a1d3b56f059d2837ea61fbbe4"
 metafile = true
