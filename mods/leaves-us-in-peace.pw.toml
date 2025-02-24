@@ -1,0 +1,13 @@
+name = "Leaves Us In Peace"
+filename = "leaves-us-in-peace-1.7.2+MC1.21.2-1.21.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IIpWIe1o/versions/Gkpianfc/leaves-us-in-peace-1.7.2%2BMC1.21.2-1.21.4.jar"
+hash-format = "sha512"
+hash = "e55550845a8a721f1a9ae508e9c6c7069d7768a57b17f156ccdeed213d3d29d3e22346bee59322faba58ebca499ef03d3331138ea9540663fda5dc3b475e5c30"
+
+[update]
+[update.modrinth]
+mod-id = "IIpWIe1o"
+version = "Gkpianfc"

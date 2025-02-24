@@ -1,0 +1,13 @@
+name = "No Enderman Grief"
+filename = "no-enderman-grief-v.2.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ss02V75k/versions/R6AMvU6y/no-enderman-grief-v.2.1.2.jar"
+hash-format = "sha512"
+hash = "1bc15152daa86d577fec03dfff09676fcb147e9cd39cc684c3da3f5efb343f204afa13fc29b80a68a1d134282ede4ff522e5f7251873fa28324844bcc22a493a"
+
+[update]
+[update.modrinth]
+mod-id = "ss02V75k"
+version = "R6AMvU6y"

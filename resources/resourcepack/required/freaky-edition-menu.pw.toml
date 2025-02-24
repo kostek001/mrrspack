@@ -1,0 +1,14 @@
+name = "Freaky Edition Menu"
+filename = "FreakyEdition.zip"
+side = "client"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/A3Uvjscm/versions/mO6Flo0B/%C2%A7c%C2%A7lFreaky%20Edition%C2%A7r%C2%A7r.zip"
+hash-format = "sha512"
+hash = "b3048920c6c3309dbf06737438bfb9cfc54b3abbcce0153724b19637c55297fe5fe4eb1019560359934d135ce1a582ea0db4c25d3f57131a7d3838ea726121b8"
+
+[update]
+[update.modrinth]
+mod-id = "A3Uvjscm"
+version = "mO6Flo0B"

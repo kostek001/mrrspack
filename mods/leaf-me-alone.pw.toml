@@ -1,0 +1,13 @@
+name = "Leaf Me Alone"
+filename = "leafmealone-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ppMUvsIg/versions/NjQdo38w/leafmealone-1.0.1.jar"
+hash-format = "sha512"
+hash = "b425566c864ec421269c4fe175a79e4e9e2d900f9f8fe279296ae47b1f9450677fd9a74790540cea0db08964a229622374d58aa95b8e18a00cf3f44b62a881ea"
+
+[update]
+[update.modrinth]
+mod-id = "ppMUvsIg"
+version = "NjQdo38w"

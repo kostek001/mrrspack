@@ -1,0 +1,34 @@
+{
+  "schema_version": "2",
+  "default_packs": [
+    "vanilla",
+    "fabric",
+    "continuity:default",
+    "continuity:glass_pane_culling_fix",
+    "srl_rp/FreshAnimations_v1.9.3.zip",
+    "srl_rp/DetailedAnimationsReworkedXJustExpressions - V1.15 PATCH.zip",
+
+    "srl_rp/Default-Dark-Mode-1.20.2+-2024.6.0.zip",
+    "black_icons"
+  ],
+  "pack_overrides": {
+    "force": ["srl_rp/Default-Dark-Mode-1.20.2+-2024.6.0.zip"],
+    "$$force": {
+      "force_compatible": true
+    },
+    "required": [
+      "vanilla",
+      "fabric",
+      "continuity:default",
+      "continuity:glass_pane_culling_fix"
+    ],
+    "$$required": {
+      "required": true,
+      "force_compatible": true
+    },
+    "hidden": ["srl_rp/FreakyEdition.zip"],
+    "$$hidden": {
+      "hidden": true
+    }
+  }
+}
