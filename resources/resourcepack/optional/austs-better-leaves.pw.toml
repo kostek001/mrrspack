@@ -1,0 +1,13 @@
+name = "Aust's Better Leaves"
+filename = "Aust's Better Leaves.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YAzGEnd5/versions/Rf9b7xyB/Aust%27s%20Better%20Leaves.zip"
+hash-format = "sha512"
+hash = "907c3cbe2056dd5541b85850775a4278712369a336eff396a111d2bc9c9655a3bb3003778254c63a9028b78d7fab9bc60d845d98407012a05afa0e3ef3841fdb"
+
+[update]
+[update.modrinth]
+mod-id = "YAzGEnd5"
+version = "Rf9b7xyB"

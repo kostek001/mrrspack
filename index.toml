@@ -6,7 +6,11 @@ hash = "59973201a2912a51f9111c58ce5e476847251ccf43e403499a698fcd81c62314"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "d7ed0461f8dc914792610180ac2992692907b6ceddbbcdcc23766fa6a7db32d2"
+hash = "84306f79d253c7db5fd6df5b3dc1ec39a33f8c632edd2743cecf68bd9a1a8747"
+
+[[files]]
+file = "config/yosbr/config/DistantHorizons.toml"
+hash = "e9ed71207c5ddb395e5899c65661828954b920e88f1fa2a867c2dc2e0b5c7ffe"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -112,6 +116,10 @@ hash = "38c1ce77e03f43d5087ed8473b359ceb3f1fd06e7377e7eeac8989b4e3ff461a"
 file = "mods/3dskinlayers.pw.toml"
 hash = "04277af31d7c79fcfa5d134c040fbec38db299875b6ba92db0d184bc1f5d9593"
 metafile = true
+
+[[files]]
+file = "mods/DistantHorizons-fabric-2.3.0-b-dev-1.21.4.jar"
+hash = "379e5cbb3e67a962d73ca2b4088d3ee73daa4eb4638da200fed5ec9ef79ad0dd"
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
@@ -256,11 +264,6 @@ metafile = true
 [[files]]
 file = "mods/fix-keyboard-on-linux.pw.toml"
 hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
-metafile = true
-
-[[files]]
-file = "mods/foggy-border.pw.toml"
-hash = "659a03f27b5d6217d031f6adcc50a0d475a9d505c59ce2740e01c8d0ffeb82b0"
 metafile = true
 
 [[files]]
@@ -504,8 +507,28 @@ file = "resources/datapack/optional/villager workstation highlights v1.1.10 (MC 
 hash = "75b403e87528d2163c3aea165d406f16b45d228f1585ed3e581923d8bb7a461c"
 
 [[files]]
+file = "resources/resourcepack/optional/austs-better-leaves.pw.toml"
+hash = "a34332e432b98f42a8cdc81786aac48bf3384368771e5c6bfc5bd66ec34fab75"
+metafile = true
+
+[[files]]
 file = "resources/resourcepack/optional/default-dark-mode.pw.toml"
 hash = "1d058627d15c67962eaf59bf208275a637d678ea302d2faba446489b72abab5b"
+metafile = true
+
+[[files]]
+file = "resources/resourcepack/optional/fancy-crops.pw.toml"
+hash = "f954ad393353fdce97158688024daafc9c718083932a49faf982501412816293"
+metafile = true
+
+[[files]]
+file = "resources/resourcepack/optional/no-worldborder.pw.toml"
+hash = "929cc2688f2f9a29e057a4cc7a16ad4cc6d7237d06228ec6c4451741bb15b9d1"
+metafile = true
+
+[[files]]
+file = "resources/resourcepack/optional/os-colorful-grasses.pw.toml"
+hash = "558138f69712448e20cc3c8d72d4a749a175ce5c222913d4fbc009c5a3466651"
 metafile = true
 
 [[files]]

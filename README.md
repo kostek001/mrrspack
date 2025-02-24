@@ -15,7 +15,6 @@ Created for SMP
 - [MOD] (client) Raised
 - [MOD] (client) Customizable Player Models
 - [MOD] (client) Customizable Player Models Simple Voice Chat Addon
-- [MOD] (client) Foggy Border
 - [MOD] (both) Unlock All Recipes
 - [MOD] (both) No Enderman Grief
 - [MOD] (both) Leaves Us In Peace
@@ -25,6 +24,7 @@ Created for SMP
 - [MOD] (client) 3D Skin Layers
 
 - [MOD] (both) ScalableLux
+- [MOD] (both) C2ME
 - [MOD] (both) Carpet
 - [MOD] (both) Carpet Extra
 - [MOD] (both) Spark
@@ -35,6 +35,7 @@ Created for SMP
 - [MOD] (server) Fabric Tailor
 - [MOD] (both) Simple Resource Loader
 - [MOD] (client) Resource Pack Overrides
+- [MOD] (both) Distant Horizons (dev build)
 
 - [SP] BLS Shaders
 - [SP] Complementary Shaders - Reimagined
@@ -42,10 +43,10 @@ Created for SMP
 - [RP] Default Dark Mode
 - [RP] Detailed Animations
 - [RP] Fresh Animations
-
-### Changes:
-
-- [MOD] c2me - (server) -> (both)
+- [RP] Os' Colorful Grasses
+- [RP] Fancy Crops
+- [RP] Aust's Better Leaves
+- [RP] No Worldborder
 
 ### Credits:
 

@@ -1,0 +1,13 @@
+name = "No Worldborder"
+filename = "No Worldborder v1.2.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XBJi6aXa/versions/CkBUb7aJ/No%20Worldborder%20v1.2.2.zip"
+hash-format = "sha512"
+hash = "052ae74563a2d4428d92631ea186776b5b5b45908d98987712ebe9569ee4585ea99ec76d08fa2a58bc60c73b44b3dfe5968311b71ffcee7cfad2b082d8a0a26c"
+
+[update]
+[update.modrinth]
+mod-id = "XBJi6aXa"
+version = "CkBUb7aJ"
