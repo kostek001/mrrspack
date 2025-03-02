@@ -1,3 +1,8 @@
 [common]
 	[common.worldGenerator]
 		enableDistantGeneration = false
+    
+[client]
+	[client.advanced]
+		[client.advanced.autoUpdater]
+      enableAutoUpdater = false

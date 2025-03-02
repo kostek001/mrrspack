@@ -11,13 +11,11 @@
     "srl_rp/Default-Dark-Mode-1.20.2+-2024.6.0.zip",
     "black_icons",
     "srl_rp/Fancy Crops v1.1.zip",
-    "srl_rp/Os' Colorful Grasses (Mix).zip",
     "srl_rp/Aust's Better Leaves.zip"
   ],
   "pack_overrides": {
     "force": [
       "srl_rp/Default-Dark-Mode-1.20.2+-2024.6.0.zip",
-      "srl_rp/Os' Colorful Grasses (Mix).zip",
       "srl_rp/No Worldborder v1.2.2.zip"
     ],
     "$$force": {

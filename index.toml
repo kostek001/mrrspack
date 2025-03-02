@@ -6,11 +6,11 @@ hash = "59973201a2912a51f9111c58ce5e476847251ccf43e403499a698fcd81c62314"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "84306f79d253c7db5fd6df5b3dc1ec39a33f8c632edd2743cecf68bd9a1a8747"
+hash = "baf4f1e58983d398b94f049d164c7c62145bf700da2bc1df8b3fe23fea4cf9f2"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
-hash = "e9ed71207c5ddb395e5899c65661828954b920e88f1fa2a867c2dc2e0b5c7ffe"
+hash = "9d792910c0c21c744b15207007121574e563ca25be189900e41863b726218e86"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -267,6 +267,11 @@ hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
 metafile = true
 
 [[files]]
+file = "mods/image2map.pw.toml"
+hash = "bb831e6e9b6a572a7ebccaefff6358cdba9053fc5a647974e4d5df85be0f10c4"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "c7acf68591c9e2e380d2fa7f01bd3b8f37a9e91ee53c59e043c4189a86c162a9"
 metafile = true
@@ -317,6 +322,11 @@ hash = "f4070441d1f1bdeb3e6a594b5ba1c3f314b8f13815a67619cb38621c0f6a1fec"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "f17daaee07fa693078844771c26a29811f78f55e9bff3d554165202a3aa5a821"
+metafile = true
+
+[[files]]
 file = "mods/macos-input-fixes.pw.toml"
 hash = "3ba523b0e2a61388644998f4ce0e34bffe2b4bbe59d5b4bd8e467e52fc4fc21a"
 metafile = true
@@ -352,6 +362,11 @@ hash = "95ff1073b74b23e62cae94569ffb63e6e2f244d99a6d1a38c4a26bdd183a64eb"
 metafile = true
 
 [[files]]
+file = "mods/no-end.pw.toml"
+hash = "23a4e08f36a348b62a6654e1e677a85702351644207a8988e20fddd3e644065a"
+metafile = true
+
+[[files]]
 file = "mods/no-enderman-grief.pw.toml"
 hash = "1683722414388eb3da60845562418bb981725b99676f99c48b94c4263813a275"
 metafile = true
@@ -369,6 +384,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "f59ab3633f781c5b5af3234f694da4c4d5195c9211b1ece7e410b54ec1a183eb"
+metafile = true
+
+[[files]]
+file = "mods/pl3xmap.pw.toml"
+hash = "0484adf0d621c2a0a10a6fcf3299f04044d70503e3b3d83c8786c474dc951c9b"
 metafile = true
 
 [[files]]
@@ -524,11 +544,6 @@ metafile = true
 [[files]]
 file = "resources/resourcepack/optional/no-worldborder.pw.toml"
 hash = "929cc2688f2f9a29e057a4cc7a16ad4cc6d7237d06228ec6c4451741bb15b9d1"
-metafile = true
-
-[[files]]
-file = "resources/resourcepack/optional/os-colorful-grasses.pw.toml"
-hash = "558138f69712448e20cc3c8d72d4a749a175ce5c222913d4fbc009c5a3466651"
 metafile = true
 
 [[files]]

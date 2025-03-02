@@ -1,0 +1,13 @@
+name = "NoEnd"
+filename = "NoEnd-0.0.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/PL5F9WAX/versions/qYG6nAwp/NoEnd-0.0.4.jar"
+hash-format = "sha512"
+hash = "f912d21afc0b4fb9555b095e831c765370791bf430998b3cffb6fa990888db17be6d007e0c22de902cdb3a8c425ceb7237143901033aa0e3f17fd2644e98e82d"
+
+[update]
+[update.modrinth]
+mod-id = "PL5F9WAX"
+version = "qYG6nAwp"
