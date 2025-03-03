@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/InertiaAntiCheat/InertiaAntiCheat.toml.server"
-hash = "530b9f14bbd45633b87a4d269edbd2c44f1c483d9c40601ec05afeb3e778c303"
+hash = "e72970e51311bdbd9a025f0e2d1e6216743d27010788d8bab485c1f3ed7d90ce"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -173,11 +173,6 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "64c483fe6597534270aac57d7cd3f59928641b97de649312a14d392b5343e483"
-metafile = true
-
-[[files]]
-file = "mods/clist.pw.toml"
-hash = "e9eed40dd855eefc2e33c581f95c49b33c5fedaaa2b04567f3f362407d1648c7"
 metafile = true
 
 [[files]]
@@ -416,6 +411,11 @@ hash = "0484adf0d621c2a0a10a6fcf3299f04044d70503e3b3d83c8786c474dc951c9b"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "5a33e8ec62e73bda2852318faf54f9a986f1bd663b550e0875e47f586a502c7a"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "0350ebc0042d86eb03d1ef9c3615ded0a45e0e75a641fd6077b8d5e2fc3f6164"
 metafile = true
@@ -498,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "1c137d989a144a658c564d77658919ed50c6a09ea8624037976425f0b4c7128e"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "171b791b2cb4e7219ecf677055b8a38a059d7d53eeaca89f6ad3999bf643626f"
 metafile = true
 
 [[files]]
