@@ -1,0 +1,13 @@
+name = "Inertia Anti Cheat"
+filename = "InertiaAntiCheat-1.0.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ljWczies/versions/t8qBSQVb/InertiaAntiCheat-1.0.4.2.jar"
+hash-format = "sha512"
+hash = "dde50873c2acd44a7ee392fbab78f9f7d5efd13d367e9b162bc3163c6fd305c5fbfe7c781243e1c2ab2a25eadb39bffdcf83fdb65b4ee1c43ca050cdb7d48b23"
+
+[update]
+[update.modrinth]
+mod-id = "ljWczies"
+version = "t8qBSQVb"

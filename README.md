@@ -39,6 +39,7 @@ Created for SMP
 - [MOD] (both) No Chat Reports
 - [MOD] (both) Simple Resource Loader
 - [MOD] (both) Distant Horizons (dev build)
+- [MOD] (both) Inertia Anti Cheat
 
 - [MOD] (server) Audioplayer
 - [MOD] (server) Voice Chat Interaction

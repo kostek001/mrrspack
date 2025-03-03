@@ -9,7 +9,7 @@
         }
       },
       {
-        "text": "MRRSPack Rhea",
+        "text": "MRRSPack.Rhea",
         "clickEvent": {
           "action": "open_url",
           "value": "https://github.com/kostek001/mrrspack"

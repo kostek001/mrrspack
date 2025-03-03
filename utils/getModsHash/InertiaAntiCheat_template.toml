@@ -1,0 +1,26 @@
+[transfer]
+method = "data"
+
+[validation]
+method = "group"
+algorithm = "SHA1"
+vanillaKickMessage = "You were kicked for not sending a response to the anti-cheat!\nThis is probably due to missing the anti-cheat client mod.\nInstall it here: https://modrinth.com/mod/inertiaanticheat"
+deniedKickMessage = "You were kicked by the anti-cheat!\nThis is due to having illegal mods.\nPlease contact your server administrator for more details."
+
+[validation.individual]
+blacklist = []
+whitelist = []
+
+[validation.group]
+hash = ["{REPLACE_ME}"]
+softWhitelist = []
+
+[motd]
+showInstalled = true
+blacklist = []
+whitelist = ["Whitelisted mods: ", "None"]
+hash = ["Requires modpack: ", "MRRSPack.Rhea"]
+
+[debug]
+debug = false
+version = 8

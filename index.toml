@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/InertiaAntiCheat/InertiaAntiCheat.toml.server"
+hash = "f517e718d6b619ea9dadf710912f84237977593b9b3d9d8d6ffc00d30a08178d"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "59973201a2912a51f9111c58ce5e476847251ccf43e403499a698fcd81c62314"
+hash = "a098e75f167c0b1127e5c9d06d159a7944a0a89333f7bbd68c1f94e5db252a56"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "baf4f1e58983d398b94f049d164c7c62145bf700da2bc1df8b3fe23fea4cf9f2"
+hash = "278e8e0eccc49074bba4af648e1d85fb47a77518f9caf9ebe3f1baf128f2c01e"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
@@ -118,8 +122,8 @@ hash = "04277af31d7c79fcfa5d134c040fbec38db299875b6ba92db0d184bc1f5d9593"
 metafile = true
 
 [[files]]
-file = "mods/DistantHorizons-fabric-2.3.0-b-dev-1.21.4.jar"
-hash = "379e5cbb3e67a962d73ca2b4088d3ee73daa4eb4638da200fed5ec9ef79ad0dd"
+file = "mods/DistantHorizons-fabric-2.3.0-b-dev-1.21.4-a36cd076.jar"
+hash = "2c140bb69ea1f36e52e48f098a1aef9df05f1ad3563595c115a331484efea5c6"
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
@@ -274,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "c7acf68591c9e2e380d2fa7f01bd3b8f37a9e91ee53c59e043c4189a86c162a9"
+metafile = true
+
+[[files]]
+file = "mods/inertiaanticheat.pw.toml"
+hash = "ab4e74b83fd95a3b709729a03fec80e5fd12fe042c3883868b81a4330560cadd"
 metafile = true
 
 [[files]]
@@ -548,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "resources/resourcepack/required/detailed-animations.pw.toml"
-hash = "7fa17d65378a57584acdfdb985da285cdb3a762c7dc89e47ff6daa8b35d57ab1"
+hash = "cf2a1302f83f49b9cde7b756b59f6051d55ff4c754404cbc0bb3f7b4e9280447"
 metafile = true
 
 [[files]]
