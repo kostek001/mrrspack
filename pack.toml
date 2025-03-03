@@ -1,12 +1,12 @@
 name = "MRRSPack Rhea"
 author = "Kostek001"
-version = "1.0.4"
+version = "1.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "12d2e75fd9569c8d855adfdebbac009a290b858739408abd2b8ceabf3c55057d"
+hash = "f371b13dacc5109cf0f44a6334f9fedc467668c59a2a9eaf050cb30d63ad243d"
 
 [versions]
 fabric = "0.16.10"

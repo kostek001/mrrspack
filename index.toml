@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/InertiaAntiCheat/InertiaAntiCheat.toml.server"
-hash = "f517e718d6b619ea9dadf710912f84237977593b9b3d9d8d6ffc00d30a08178d"
+hash = "530b9f14bbd45633b87a4d269edbd2c44f1c483d9c40601ec05afeb3e778c303"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -156,13 +156,28 @@ hash = "475e7b6fe2dc2694a26cea6c6fc2725d31ed050be46ab1ac08bde9bb99ca7b7b"
 metafile = true
 
 [[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "9fd6ac115ea51594c5dc5d8d0cc3de8332b41dc97be39565ba4ea3fb22431d69"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "34f76ee3754c91d7493931fdf0df27e8788b336277efc90ced549ec27a1fc5b7"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "c22a79e12714a5cbef7623b480bf066cd49e5710286abee69e5fc06484f3234e"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "64c483fe6597534270aac57d7cd3f59928641b97de649312a14d392b5343e483"
+metafile = true
+
+[[files]]
+file = "mods/clist.pw.toml"
+hash = "e9eed40dd855eefc2e33c581f95c49b33c5fedaaa2b04567f3f362407d1648c7"
 metafile = true
 
 [[files]]
