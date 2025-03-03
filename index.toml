@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/InertiaAntiCheat/InertiaAntiCheat.toml.server"
-hash = "e72970e51311bdbd9a025f0e2d1e6216743d27010788d8bab485c1f3ed7d90ce"
+hash = "be623b821edf0e17fa60901f3ae31c8deb94642a8230884bb597104d33a61bfd"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -468,6 +468,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "45da1c92a92078a5d35ce8e043484b7464836e6627beaaac70f21dc3fc1bf648"
+metafile = true
+
+[[files]]
+file = "mods/sit!.pw.toml"
+hash = "98378a82941a5e6ff9a637cca9c5f931d232ef324bbadd4e6ba5fb11f1786868"
 metafile = true
 
 [[files]]

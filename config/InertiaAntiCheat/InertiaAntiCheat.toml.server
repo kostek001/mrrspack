@@ -12,7 +12,7 @@ blacklist = []
 whitelist = []
 
 [validation.group]
-hash = ["d6bbbfbc2022d7352fd0dcb0b617b5c4"]
+hash = ["4f534bb8ccbe4ea91009691fd20c7364"]
 softWhitelist = []
 
 [motd]
