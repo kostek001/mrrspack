@@ -1,0 +1,3 @@
+guiScale:2
+darkMojangStudiosBackground:true
+skipMultiplayerWarning:true

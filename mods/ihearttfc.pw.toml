@@ -1,0 +1,13 @@
+name = "I ❤ TFC (I Heart TFC)"
+filename = "I Heart TFC-1.21.1-1.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XjM4YE3F/versions/vPthRMEP/I%20Heart%20TFC-1.21.1-1.1.2.jar"
+hash-format = "sha512"
+hash = "c689435385a4e08706bd549c433b977d4681d08e004dde777e48b0932206caebafa2cade07fa423667ab651b06d1f2e9c952eeeab0cdec2854a6e56be5ab2e85"
+
+[update]
+[update.modrinth]
+mod-id = "XjM4YE3F"
+version = "vPthRMEP"

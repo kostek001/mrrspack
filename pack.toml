@@ -1,0 +1,13 @@
+name = "MRRSPack.Dione"
+author = "Kostek001"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d31e5f222c4a531e50f532bbf83cdd9704ca39d72538e59fc2b828628d19b41d"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.210"

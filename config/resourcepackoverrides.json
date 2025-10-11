@@ -1,0 +1,35 @@
+{
+  "schema_version": "2",
+  "default_packs": [
+    "vanilla",
+    "mod_resources",
+    "fabric",
+    "continuity:default",
+    "continuity:glass_pane_culling_fix",
+    "file/FreshAnimations.zip",
+    "file/DetailedAnimationsReworked.zip",
+    "file/VexxedVisualsTFC.zip",
+    "file/VexxedAudioTFC.zip",
+    "file/GentlerWeatherSounds.zip",
+    "file/DefaultDarkMode.zip",
+    "black_icons",
+    "file/BushyLeaves.zip"
+  ],
+  "pack_overrides": {
+    "required": [
+      "vanilla",
+      "fabric",
+      "continuity:default",
+      "continuity:glass_pane_culling_fix",
+      "file/FreshAnimations.zip",
+      "file/DetailedAnimationsReworked.zip",
+      "file/VexxedVisualsTFC.zip",
+      "file/VexxedAudioTFC.zip",
+      "file/GentlerWeatherSounds.zip"
+    ],
+    "$$required": {
+      "required": true,
+      "force_compatible": true
+    }
+  }
+}

@@ -1,0 +1,13 @@
+name = "Detailed Animations"
+filename = "DetailedAnimationsReworked.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9pR04wDX/versions/dFBidLNv/DetailedAnimationsReworked%20-%20V1.15.zip"
+hash-format = "sha512"
+hash = "6ac0875c11908819d05680529e450bc91195a68894c94478775529ba7ca182775597cb64ed417fc3c9832c8bd23e06f6e19da2cffe0dd7799a81815ce1653fed"
+
+[update]
+[update.modrinth]
+mod-id = "9pR04wDX"
+version = "dFBidLNv"

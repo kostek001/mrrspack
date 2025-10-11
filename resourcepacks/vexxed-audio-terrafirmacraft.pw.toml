@@ -1,0 +1,13 @@
+name = "Vexxed Audio: TerraFirmaCraft"
+filename = "VexxedAudioTFC.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xvqjmv9P/versions/LkvQTXZ8/VexxedAudio_TFC.zip"
+hash-format = "sha512"
+hash = "1d035f223c0f58df5fb283581f107af1c1dd590a2728957294c78dba6408d7f9cfbacc03565f4fa8a0a5bf4dae65856b8fe06ce45a2128ece537302cf828d44b"
+
+[update]
+[update.modrinth]
+mod-id = "Xvqjmv9P"
+version = "LkvQTXZ8"

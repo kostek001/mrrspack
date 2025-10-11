@@ -1,0 +1,13 @@
+name = "Vexxed Visuals: TerraFirmaCraft"
+filename = "VexxedVisualsTFC.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TAEibNyf/versions/qj6EBtZk/Vexxed_Visuals_TFC_v1.3.3.zip"
+hash-format = "sha512"
+hash = "c7b0778df3def2e43e1111e64c47f4da25af4ce384cb719d4430dd5ee9afd83945a77d5337f7f06b8b96af116222fd869613c8140afc5c8112183b325c0a938a"
+
+[update]
+[update.modrinth]
+mod-id = "TAEibNyf"
+version = "qj6EBtZk"

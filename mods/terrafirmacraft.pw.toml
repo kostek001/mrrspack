@@ -1,0 +1,13 @@
+name = "TerraFirmaCraft"
+filename = "TerraFirmaCraft-NeoForge-1.21.1-4.0.7-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JaCEZUhg/versions/iGgU61na/TerraFirmaCraft-NeoForge-1.21.1-4.0.7-beta.jar"
+hash-format = "sha512"
+hash = "ef3113d2ea7f40390a2a4a75a934a7ef886d72c7312d73173b1300841936c97cb859c748edb21bc292222611d87e25097771540602bcbb419433997bd9c015de"
+
+[update]
+[update.modrinth]
+mod-id = "JaCEZUhg"
+version = "iGgU61na"

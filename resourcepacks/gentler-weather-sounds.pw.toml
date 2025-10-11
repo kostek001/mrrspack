@@ -1,0 +1,13 @@
+name = "Gentler Weather Sounds"
+filename = "GentlerWeatherSounds.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GB2EXKpD/versions/BJmdhpIX/Gentler%20Weather%20Sounds%202.0.0.zip"
+hash-format = "sha512"
+hash = "d0c991b275528a027e56381c72360a2e6aeeecb9e432b464915d0273d2145aeb16aa2d31c8dd45885df25e53c1b60fc6134b4a90da98db79560ed71f28794466"
+
+[update]
+[update.modrinth]
+mod-id = "GB2EXKpD"
+version = "BJmdhpIX"
