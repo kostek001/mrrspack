@@ -1,12 +1,12 @@
 name = "MRRSPack.Dione"
 author = "Kostek001"
-version = "1.0.3"
+version = "1.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f61c80f127d6fcf26c4cce6386834da5e720c8f54c875830dece571baf3d06eb"
+hash = "fd8fdb2798aafb44f315f099a42daa0f65ec0834cd3158867a9fe6c6ff35072a"
 
 [versions]
 minecraft = "1.21.1"
