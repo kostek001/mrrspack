@@ -1,0 +1,13 @@
+name = "TerraFirmaGreg-Shaders"
+filename = "ComplementaryUnboundTFG.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "ddc9642fef583442c3334823a7b15a613c5926b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7071331
+project-id = 954161

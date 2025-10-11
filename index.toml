@@ -18,7 +18,7 @@ hash = "27b4dc825aacb505f14d67161ce49138787842b0e2b434ce62cdeed98b2fe569"
 
 [[files]]
 file = "configureddefaults/iris.properties"
-hash = "cdae928ad48b3fb8b93f3c44d6588398da0ef6a20cd93ccfd45fb021249250c2"
+hash = "1bb08de66effcd8b782e472d870685f1706d4129e3ece5e1d977117a8d62d00b"
 
 [[files]]
 file = "configureddefaults/options.txt"
@@ -410,6 +410,6 @@ hash = "09e7df2701c584fdbcabb82195d2a8d5219a23d4147465ac20e10ce75bab98fa"
 metafile = true
 
 [[files]]
-file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "c1ed901cb5f6654a8cca9e426fb321037b9ace97e6102181f2765ff4866027ce"
+file = "shaderpacks/terrafirmagreg-shaders.pw.toml"
+hash = "aaefb43b38f1661a8683b238fcea5150a8c7629de370eccbfae2872bd6ab311e"
 metafile = true
