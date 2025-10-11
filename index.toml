@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/betterclouds-v1.json"
+hash = "b71a76633ff4db9fb5b720f739251abc834c3033dec6df5306fb39c1d37b8bfb"
+
+[[files]]
 file = "config/resourcepackoverrides.json"
-hash = "1af378cc0376ed45ace3ba4c4d6c8b74758df18fd368d62076f455e34495bc45"
+hash = "ac4b074875f87e8835c200c94c935f2e22d2882ea4bbd0a2609facbb98e22d72"
 
 [[files]]
 file = "configureddefaults/config/DistantHorizons.toml"
@@ -11,6 +15,10 @@ hash = "9d792910c0c21c744b15207007121574e563ca25be189900e41863b726218e86"
 [[files]]
 file = "configureddefaults/config/vivecraft-client-config.json"
 hash = "27b4dc825aacb505f14d67161ce49138787842b0e2b434ce62cdeed98b2fe569"
+
+[[files]]
+file = "configureddefaults/iris.properties"
+hash = "cdae928ad48b3fb8b93f3c44d6588398da0ef6a20cd93ccfd45fb021249250c2"
 
 [[files]]
 file = "configureddefaults/options.txt"
@@ -372,11 +380,6 @@ hash = "64eaf7478e42d5143f4feeee87c56f779f4c3523f9fb06d8342484d36aa4442b"
 metafile = true
 
 [[files]]
-file = "resourcepacks/bushy-leaves.pw.toml"
-hash = "67da494ed7af01ee6f4375c05bd6ac9d1ab10c3e07a137926547deb7f17059d1"
-metafile = true
-
-[[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
 hash = "30f3bc42a54c6ff362b0b16b1cefa38a8d6161e0ebaf519f0f23cd3b3a83c596"
 metafile = true
@@ -407,6 +410,6 @@ hash = "09e7df2701c584fdbcabb82195d2a8d5219a23d4147465ac20e10ce75bab98fa"
 metafile = true
 
 [[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "c1ed901cb5f6654a8cca9e426fb321037b9ace97e6102181f2765ff4866027ce"
 metafile = true
