@@ -1,7 +1,7 @@
 {
-  advanced: {
-    crosshair: {
-      maximumFade: 0.0,
-    },
-  },
+  "advanced": {
+    "crosshair": {
+      "maximumFade": 0.0
+    }
+  }
 }

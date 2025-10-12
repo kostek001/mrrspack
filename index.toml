@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/autohud.json5"
-hash = "2f9495265887e3abe0bb7ee343601655e72a1437b82869ac8ac52cf7c063d296"
+hash = "dc76caf2a0f33846b6fa8c07a69adfadf50bb1821c873c327ef192f7120fc474"
 
 [[files]]
 file = "config/betterclouds-v1.json"
