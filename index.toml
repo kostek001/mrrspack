@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/autohud.json5"
-hash = "e8281a5f185f58b1a49f901ea3548e684132d186a0311a937b3c0cc12a7d4187"
+hash = "0dd98bd3ffd9075c6c683c8a708cc68df73afa3cc3cfa17f367a3c21d7aa7ce5"
 
 [[files]]
 file = "config/betterclouds-v1.json"
@@ -331,6 +331,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "d443ed7871b1aebdcac6d3b9212676c576e6c4d86ba0eb03ddd85349f12a74e1"
+metafile = true
+
+[[files]]
+file = "mods/sneaky-nametag.pw.toml"
+hash = "d198e3f60f55371251864960d62d8eb78c75a6ec9ba8e5a2ff7adab2a87df3c0"
 metafile = true
 
 [[files]]

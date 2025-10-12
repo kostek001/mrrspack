@@ -1,0 +1,13 @@
+name = "Sneaky NameTag"
+filename = "SneakyNameTag-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PUpch7wm/versions/kRTMLHiP/SneakyNameTag-1.0.jar"
+hash-format = "sha512"
+hash = "c0b775b791a764b73f6d330c945c2a8e737716e9c4150c30591b5bd37c9aa5f674754031bc942827eeb570a4cb096b32587ffe2c73f22ddbf425db4a3cade224"
+
+[update]
+[update.modrinth]
+mod-id = "PUpch7wm"
+version = "kRTMLHiP"
