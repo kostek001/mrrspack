@@ -69,6 +69,11 @@ hash = "be28a9ff89c60140b2983eb91089e77bec90bc5a0379c25472be01cb14dcbb97"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
+metafile = true
+
+[[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "8169fa6b9fd786fcff725d88a4a3d344fecadb4abc2b2823c65af099d3a82147"
 metafile = true
@@ -231,6 +236,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "91254776ec0282e526689386e49adf8a0bdec546dcb2c82bb1bb82deb3eef444"
+metafile = true
+
+[[files]]
+file = "mods/leawind-third-person.pw.toml"
+hash = "032613d9ea1eeeba5c96490571508c5ec3cfb727100303a054d43de03f1894b1"
 metafile = true
 
 [[files]]

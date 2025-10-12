@@ -1,0 +1,13 @@
+name = "Leawind's Third Person"
+filename = "leawind_third_person-2.3.0-mc1.21-1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/S3D3QF0M/versions/IyzCjsmN/leawind_third_person-2.3.0-mc1.21-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "b96f69cc29641d1cd4cfbf17af25082230f6ed290e7493592f5b0be9459412a178d2e2f8348e287522431a8eef453a1e3d10a2f9352a0bb896d7ba253c20a33d"
+
+[update]
+[update.modrinth]
+mod-id = "S3D3QF0M"
+version = "IyzCjsmN"
