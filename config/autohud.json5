@@ -1,6 +1,7 @@
 {
   "advanced": {
     "crosshair": {
+      "speedMultiplier": 0.9,
       "maximumFade": 0.0
     }
   }

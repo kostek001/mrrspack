@@ -1,6 +1,7 @@
 [common]
 	[common.worldGenerator]
-		enableDistantGeneration = false
+		enableDistantGeneration = true
+    distantGeneratorMode = "PRE_EXISTING_ONLY"
     
 [client]
 	[client.advanced]

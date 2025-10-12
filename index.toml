@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/autohud.json5"
-hash = "dc76caf2a0f33846b6fa8c07a69adfadf50bb1821c873c327ef192f7120fc474"
+hash = "e8281a5f185f58b1a49f901ea3548e684132d186a0311a937b3c0cc12a7d4187"
 
 [[files]]
 file = "config/betterclouds-v1.json"
@@ -14,7 +14,7 @@ hash = "ac4b074875f87e8835c200c94c935f2e22d2882ea4bbd0a2609facbb98e22d72"
 
 [[files]]
 file = "configureddefaults/config/DistantHorizons.toml"
-hash = "9d792910c0c21c744b15207007121574e563ca25be189900e41863b726218e86"
+hash = "f0a69d866147e1d8ab3ca0277c591a0d9a2d4102e57e1b453a87d75fd58591e6"
 
 [[files]]
 file = "configureddefaults/config/vivecraft-client-config.json"

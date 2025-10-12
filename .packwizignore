@@ -1,2 +1,7 @@
-shell.nix
-README.md
+/*
+
+!/config
+!/configureddefaults
+!/mods
+!/resourcepacks
+!/shaderpacks
