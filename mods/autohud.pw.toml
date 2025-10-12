@@ -1,0 +1,13 @@
+name = "Auto HUD"
+filename = "autohud-8.7+1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/temczoTQ/versions/9qGDflSq/autohud-8.7%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "f69c3cfd2c6285b8fee410718a2968ac7ff9360dba703533c91547377ec973ad421139b724faffb0e2d2182ba456fc2fca0630858b1d1a0369b216416a806c84"
+
+[update]
+[update.modrinth]
+mod-id = "temczoTQ"
+version = "9qGDflSq"

@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/autohud.json5"
+hash = "2f9495265887e3abe0bb7ee343601655e72a1437b82869ac8ac52cf7c063d296"
+
+[[files]]
 file = "config/betterclouds-v1.json"
 hash = "b71a76633ff4db9fb5b720f739251abc834c3033dec6df5306fb39c1d37b8bfb"
 
@@ -52,6 +56,11 @@ metafile = true
 [[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "a77830f11c321ef40ace0c3f9c3974e206dc3b788dfc9c767248152ccda7f53b"
+metafile = true
+
+[[files]]
+file = "mods/autohud.pw.toml"
+hash = "1d39c4b2c4554ef1532b3f0d22e6a06d8750ce11acb2f51ba7d78868c7f4cdb7"
 metafile = true
 
 [[files]]
@@ -127,6 +136,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
 metafile = true
 
 [[files]]
@@ -302,6 +316,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/selectivebounds.pw.toml"
+hash = "51926495d9e6024e0b5950f7938465a3a1e74c4341b2f4b0764bbf72401a259e"
 metafile = true
 
 [[files]]
